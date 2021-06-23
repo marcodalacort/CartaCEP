@@ -1,2 +1,2 @@
 # CartaCEP
-Controle Estatístico de Processo
+Controle Estatístico de Processo.
